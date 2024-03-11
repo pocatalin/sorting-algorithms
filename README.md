@@ -27,7 +27,10 @@ I made this to work wiht matrixes of nxn ,sorting each line.
 
 ![Annotation 2024-03-11 144451](https://github.com/pocatalin/sorting-algorithms/assets/32682232/3b57d040-54db-41e2-90bc-298d0a450568)
 
+This was done on a 100x100 input.
+
 License
+
 This code is provided under the MIT License. 
 
 
